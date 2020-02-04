@@ -1,6 +1,6 @@
 # ExJewel
 
-Project API for ExJewel which send request to Rapaport API and store result in a Postgres database.
+Project API for ExJewel which send request to Rapaport API and store results in a Postgres database.
 
 Request Exemple :
 
